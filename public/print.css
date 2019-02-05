@@ -1,0 +1,24 @@
+@media print
+{
+
+    #prints{
+        display:none;
+    }
+
+    .amount_tbl{
+        text-align: right;
+        font-weight: bold;
+        color: #000000;
+    }
+
+    #back{
+        display:none;
+    }
+
+}
+
+.amount_tbl{
+    text-align: right;
+    font-weight: bold;
+    color: #000000;
+}

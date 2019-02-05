@@ -1,0 +1,120 @@
+/* XL Device :1200px. 1170 */
+@media screen and (max-width: 768px){
+	
+}
+/* LG Device :992px. 970px */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+
+/* MD Device :768px. 750px */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+
+/* Mobile Layout: 320px. 300px */
+@media only screen and (max-width: 767px) { 
+.rounded-circle {
+	width: 30px;
+	margin-left: -5px;
+}
+header{
+	display: none;
+}
+p{
+	font-size: 14px;
+}
+.logo{
+	display: block;
+}
+.slicknav_menu {
+	display: block;
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 9999;
+	width: 100%;
+}
+#home {
+	height: 25vh;
+}
+.home-content {
+	margin-top: 80px;
+}
+.btn-success {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+.home-content h1 {
+	font-size: 20px;
+}
+.home-content p {
+	font-size: 14px;
+}
+.btn-text, button {
+	font-size: 13px;
+	padding: 8px 10px;
+}
+.about_content p, .single_blog p {
+	font-size: 14px;
+}
+form {
+	padding: 0 5px;
+}
+.single_blog p {
+	padding-top: 0;
+}
+footer {
+	height: 50px;
+	padding: 15px 0px;
+}
+.other_home {
+	height: 20vh;
+}
+.other_home p {
+	font-size: 15px;
+	line-height: 20vh;
+}
+.nav-tabs {
+	font-size: 10px;
+	margin-top: 10px;
+}
+#nav-overview .single_blog {
+	width: 100%;
+}
+#nav-overview .table {
+	width: 100%;
+}
+#nav-advertisement table {
+	width: 100%;
+}
+#nav-blog .single_blog {
+	width: 100%;
+	margin-top: 10px;
+}
+.slicknav_nav ul {
+	margin: -40px 0px 0 -20px;
+}
+.notification_number {
+	top: 73%;
+	right: 87%;
+}
+.fixed_top {
+	right: 10px;
+}
+
+.slicknav_nav .slicknav_arrow {
+	display: none;
+}
+}
+/* Wide Mobile Layout: 480px. 450px */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+	
+}
+
+
+
+
